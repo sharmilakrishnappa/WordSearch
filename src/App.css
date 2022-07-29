@@ -1,0 +1,33 @@
+
+.styled-btn{
+  align-items: center;
+  background-color: rgb(91, 11, 165);
+  border: none;
+  color: aliceblue;
+  height: 40px;
+  width: 20rem;
+  padding: 5px;
+  border-radius: 6px;
+  margin-bottom: 6rem;
+  font-size: large;
+  font-weight: 600;
+}
+body{
+  background-color: rgb(234, 241, 245);
+}
+.styled-font{
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  top:1rem
+}
+.styled-btm{
+width: 60rem;
+min-height: 10rem;
+ font-size: medium;
+ font-style: italic;
+ font-weight: 600;
+ text-overflow: clip;
+ overflow: scroll;
+}
